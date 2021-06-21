@@ -1,3 +1,3 @@
 # MNIST
-#MNIST with Linear Regression, ReLu 
-# Frameowrk Pytorch
+# MNIST with Linear Regression, ReLu 
+# Framework Pytorch
